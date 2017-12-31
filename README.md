@@ -1,2 +1,2 @@
 # sunbot
-git clone http://github.com/mzderjo
+git clone http://github.com/solenga
