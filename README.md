@@ -1,2 +1,2 @@
 # sunbot
-git clone http://github.com/solenga
+git clone https://github.com/solenga
